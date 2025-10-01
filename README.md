@@ -35,5 +35,3 @@ This project investigates both **adversarial attacks** and **defensive strategie
 * Enhancing the **safety of AI systems** in sensitive domains (medical imaging, self-driving, cybersecurity).
 * Benchmarking adversarial robustness for academic and industry ML systems.
 * Contributing to **AI security and trustworthiness research**.
-
-Would you like me to also **write a professional “Project Structure” section** (like listing out `/src`, `/models`, `/attacks`, `/defenses`, etc.) so that when someone lands on your repo, they immediately know where to find things?
